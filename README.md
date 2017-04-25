@@ -61,14 +61,21 @@ To add padding on elements just use multiply of 5, Suppose you have to use paddi
 	<div class="pd-10"></div>
     
     
-==========================
+IMPORTANT
+
 Keep In Mind That
 
-mr stands for margin
-pd stands for padding
-t stands for top
-r stands for right
-b stands for bottom
-l stands for left
-n stands for negative
-==========================
+'mr' stands for margin
+
+'pd' stands for padding
+
+'t' stands for top
+
+'r' stands for right
+
+'b' stands for bottom
+
+'l' stands for left
+
+'n' stands for negative
+
